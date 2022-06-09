@@ -9,3 +9,15 @@ A aplicação web consiste em uma lista de tarefas, com capacidade de salvar loc
 ## Layout desktop
 
 ![Desktop](https://github.com/CarlosBarcante/todo-list/blob/master/images/desktop.jpg)
+
+## Layout mobile
+
+![Mobile](https://github.com/CarlosBarcante/todo-list/blob/master/images/Mobile.jpg)
+
+## Tecnologias utilizadas
+- HTML / CSS / JS
+- ReactJS
+
+## Autor
+
+Carlos Barçante
