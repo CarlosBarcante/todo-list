@@ -18,6 +18,20 @@ A aplicação web consiste em uma lista de tarefas, com capacidade de salvar loc
 - HTML / CSS / JS
 - ReactJS
 
-## Autor
+## Como executar o projeto
+
+
+
+### instalar dependências
+```
+npm install
+```
+
+### executar o projeto
+```
+npm start
+```
+
+# Autor
 
 Carlos Barçante
