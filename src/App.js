@@ -44,7 +44,7 @@ function App() {
     }
 
     return (
-        <div className="container">
+        <div className="container card">
             <header><h1>Todo</h1><button onClick={() => { setShowModal(true) }}>+</button></header>
             <List onDone={onDone} onItemDeleted={onItemDeleted} items={items}></List>
             <Modal show={showModal} onHideModal={onHideModal}><TodoForm onAddItem={onAddItem}></TodoForm></Modal>
