@@ -16,7 +16,7 @@ A aplicação consiste em uma lista de tarefas, com capacidade de salvar localme
 
 ## Tecnologias utilizadas
 - HTML / CSS / JS
-- ReactJS
+- ReactJS / Redux
 
 ## Como executar o projeto
 
